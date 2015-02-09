@@ -6,3 +6,6 @@ Try running this:
 
     clang -o pthread pthread.c -lpthread
     ./pthread
+
+    clang -o opendir opendir.c
+    ./opendir
